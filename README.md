@@ -10,7 +10,7 @@ My name is Brandon and I'm an undergraduate computer science student at the Univ
 - learning
 
 |  [<img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="c logo" width="70">](https://www.php.net/) | [<img src="https://miro.medium.com/max/480/1*oNM0JVqivoi3lVPF6ygp9Q.png" alt="c logo" width="70">](https://kotlinlang.org/) |  [<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/99937611/original/d1c6ac81f536b60b0df88472d3582cdc4ad644d4/spring-mvc-boot-application.png" alt="c logo" width="70">](https://spring.io/)
-|---|---|---|---|
+|
 
 
 
